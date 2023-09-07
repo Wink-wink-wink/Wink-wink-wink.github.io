@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Apart From Learning"
 permalink: /publications/
 author_profile: true
 ---
