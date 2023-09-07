@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Apart From Learning"
-permalink: /publications/
+permalink: /apart from learning/
 author_profile: true
 ---
 
