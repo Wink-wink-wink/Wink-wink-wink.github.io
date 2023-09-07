@@ -25,10 +25,6 @@ redirect_from:
 
 <img src="https://skillicons.dev/icons?i=c,cpp" /><br>
 
-### 🛠 常用工具
-
-<img src="https://github.com/Wink-wink-wink/winkicon/blob/main/github.webp"  width="78" height="80"/><img src="https://github.com/Wink-wink-wink/winkicon/blob/main/vs.webp"  width="78" height="80"/><img src="https://github.com/Wink-wink-wink/winkicon/blob/main/py.webp"  width="78" height="80"/>
-
 
 
 A data-driven personal website
