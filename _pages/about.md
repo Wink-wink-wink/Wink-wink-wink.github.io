@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人简介"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-待填充
+你好，欢迎来到我的主页
+
 
 A data-driven personal website
 ======
