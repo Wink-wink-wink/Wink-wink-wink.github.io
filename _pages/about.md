@@ -10,8 +10,7 @@ redirect_from:
 
 ### 👋你好，欢迎来到我的主页
 
-<table>
-<tr><td>
+
   
 ### ⛷ About Me
 
@@ -23,8 +22,6 @@ redirect_from:
 - ⌨我希望未来能学习更多有关计算机的知识。
 - 🏃‍♂️ I'm not writing a lot of code right now, bur I'll keep working on it in the coming days.
 
-</td></tr>
-</table>
 
 
 A data-driven personal website
