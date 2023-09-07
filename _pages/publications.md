@@ -3,8 +3,8 @@ title: "Apart From Learning"
 permalink: /apart from learning/
 ---
 
- ✨平时基本宅在宿舍或者是生活区教学区两点一线，没怎么出去玩，以下就是些平淡生活的小小插曲：
- -----
+ ## ✨平时基本宅在宿舍或者是生活区教学区两点一线，没怎么出去玩，以下就是些平淡生活的小小插曲：
+ 
 
  ### 🎈这里是铜盘
 <img src="https://github.com/Wink-wink-wink/Wink-wink-wink.github.io/assets/143947433/44374d5c-e82c-42a7-a7a3-a90829e70525"  width="400" height="250"/>
