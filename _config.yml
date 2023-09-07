@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhen Qiang Lin / Profile"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhen Qiang Lin"
 description              : &description "personal description"
 url                      : https://Wink-wink-wink.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
